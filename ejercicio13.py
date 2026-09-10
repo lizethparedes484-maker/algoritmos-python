@@ -1,3 +1,5 @@
+#La política de la compañía telefónica “chimefón” es: “Chismea + x -”. Cuando se realiza una llamada, el cobro es por el tiempo que ésta dura, de tal forma que los primeros cinco minutos cuestan $1.00 peso c/u, los siguientes tres, 80¢ centavos de peso c/u, los siguientes dos minutos, 70¢ centavos de peso c/u, y a partir deldécimo minuto, 50¢ centavos de peso c/u.a (MXN). Determinar cuánto debe pagar por cada concepto una persona que realiza una llamada en moneda nacional mexicana (MXN).
+
 duracion = int(input("cuanto duro la llamada:"))
 if duracion <= 5:
     precio = 1
