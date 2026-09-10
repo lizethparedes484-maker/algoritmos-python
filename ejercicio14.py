@@ -1,3 +1,5 @@
+#La política de la compañía telefónica “chimefón” es: “Chismea + x -”. Cuando se realiza una llamada, el cobroes por el tiempo que ésta dura, de tal forma que losprimeros cinco minutos cuestan $1.00 peso c/u, lossiguientes tres, 80¢ centavos de peso c/u, los siguientesdos minutos, 70¢ centavos de peso c/u, y a partir deldécimo minuto, 50¢ centavos de peso c/u.Además, se carga un impuesto de 3 % cuando esdomingo, y si es día hábil, en turno matutino, 15 %, y enturno vespertino, 10 %. Realice un algoritmo paradeterminar cuánto debe pagar por cada concepto unapersona que realiza una llamada en moneda nacional mexicana (MXN).
+
 duracion = int(input("Ingresa la duración de la llamada (minutos): "))
 dia = input("¿Es día 'domingo' o 'habil'?: ")
 
