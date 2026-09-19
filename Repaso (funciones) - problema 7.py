@@ -8,5 +8,8 @@ def es_mayor_edad (edad):
         return " numero no valido"
 
 print(es_mayor_edad(12))
+print(es_mayor_edad(18))
+print(es_mayor_edad(45))
+
         
         
