@@ -13,4 +13,4 @@ else:
     total = personas * costo
    
 print("Costo por personas: $", costo)
-print("total a pagra a la compañia :", total)
+print("total a pagar a la compañia :", total)
