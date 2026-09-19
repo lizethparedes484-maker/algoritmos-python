@@ -5,3 +5,5 @@ def mayor_de_dos  (a,b):
     else:
         return b
 print (mayor_de_dos(12,9))
+print (mayor_de_dos(40, -10))
+print (mayor_de_dos(8,8))
