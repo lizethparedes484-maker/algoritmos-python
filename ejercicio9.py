@@ -1,7 +1,7 @@
 #Determina el promedio que obtendrá un alumno considerando que realiza tres exámenes, de los cuales el primero y el segundo tienen una ponderación de 25%, mientras que el tercero de 50%
 
 cal1 = float(input("ingrese la primera calificacion:"))
-cal2 = float(input("ingrese la tercera calificacion:"))
+cal2 = float(input("ingrese la segunda calificacion:"))
 cal3 = float(input("ingrese la tercera  calificacion:"))
 
 cal11 = cal1*0.25
