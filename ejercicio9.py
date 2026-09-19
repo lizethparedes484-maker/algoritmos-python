@@ -8,5 +8,5 @@ cal11 = cal1*0.25
 cal12= cal2 *0.25
 cal13 = cal3 * 0.50
 
-total = (cal1+cal2+cal3 ) / 3
+total = (cal11+cal12+cal13 ) 
 print (f"el promedio es {total}")
