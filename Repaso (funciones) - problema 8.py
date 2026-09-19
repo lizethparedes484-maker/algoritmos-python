@@ -8,5 +8,7 @@ def area_triangulo (base, altura):
    
     
 print(area_triangulo(10, 5))
+print(area_triangulo(7, 4))
+print(area_triangulo(-2, 5))
     
 
