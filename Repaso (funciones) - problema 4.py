@@ -3,5 +3,7 @@ def obtener_double (n):
     return n*2
 
 print(obtener_double(14))
+print(obtener_double(0))
+print(obtener_double(5))
 
 
