@@ -3,6 +3,8 @@ def repetir_texto (texto, veces):
     return texto*veces
 
 print (repetir_texto("darinel ",4))
+print (repetir_texto("hola",1))
+print (repetir_texto("Ja ",4))
 
 
 
