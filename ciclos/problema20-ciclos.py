@@ -1,6 +1,7 @@
 #problema 20 ciclos
+#Una compañía fabrica focos de colores (verdes, blancos y rojos). Se desea contabilizar, de un lote de N focos, el número de focos de cada color que hay en existencia.
 
-#se inician los tres contadores uqe se van a utilizar
+#se inician los tres contadores que se van a utilizar
 verde =  0
 rojo = 0
 blanco = 0
