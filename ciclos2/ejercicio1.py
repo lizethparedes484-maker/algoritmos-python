@@ -3,10 +3,10 @@
 #los contadores inician en  cero
 hh= 0
 ttotal = 0
-sueldohora = 100   #declaramos un sueldo fija 
+sueldohora = 100   #declaramos un sueldo fijo 
 
-for i in range (6):    #se inicia los ciclos 
-    horas= int(input(f"¿Cuantas son las horas trabajadas en el dia {i+1} ? "))   #se piden las horas trabajadas 
+for i in range (6):    #se inicia el ciclo
+    horas= int(input(f"¿Cuantas son las horas trabajadas en el dia {i+1} ? "))   #se piden las horas trabajadas mediante un input
     
     # condicionales: si horas son menores o iguales a 8 el sueldo es normal y se va acumulando al total
     if (horas <= 8):
