@@ -1,4 +1,8 @@
 # problema 6/20
+"""
+Control de peso y sobrepeso en envíos: Se recibe un lote de N paquetes. Se debe registrar el peso de cada uno en kg. Si un paquete pesa más de 15 kg, se le aplica
+un recargo de $50 de transporte. Muestra cuántos paquetes tenían sobrepeso, el total pagado en recargos y el peso medio de todo el lote.
+"""
 #inician los contadores y acumuladores en cero
 contador  = total = media = 0
 
